@@ -1,0 +1,56 @@
+name: TIC / EPS / IM Japan News Monitor
+
+# รันอัตโนมัติทุก 3 ชั่วโมง + สามารถกดรันเองได้จากแท็บ Actions (workflow_dispatch)
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # ทุก 15 นาที (เวลา UTC) — ฟรีบน GitHub Actions
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+    paths:
+      - "monitor.py"
+      - ".github/workflows/monitor.yml"
+
+permissions:
+  contents: write   # ต้องมีสิทธิ์เขียน เพื่อ commit state.json กลับเข้า repo
+
+concurrency:
+  group: tic-monitor
+  cancel-in-progress: false
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor script
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python monitor.py
+
+      - name: Commit updated state.json (ถ้ามีการเปลี่ยนแปลง)
+        run: |
+          git config user.name "tic-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- state.json; then
+            git add state.json
+            git commit -m "chore: update news state [skip ci]"
+            git push
+          else
+            echo "ไม่มีการเปลี่ยนแปลงใน state.json"
+          fi
