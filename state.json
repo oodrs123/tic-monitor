@@ -1,4 +1,101 @@
 {
-  "seen": {},
-  "last_run": null
+  "seen": {
+    "327c7900591d88a351fcdd76": {
+      "title": "เหตุระเบิดตกค้างในพื้นที่เกษตรในอิสราเอล แรงงานไทยเจ็บ 6 คน - Thai PBS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTQTVqdlNYUkpVVjZBY1YtTXlkLUpMR2NTeEhxV0hGMzBVY2dVaDZOMVk4UnZwRWVfSFUteUlhVm9LTHZqNnF6dUVlWGdNUTRuQ3YzeThsSnE?oc=5",
+      "group": "TIC_ISRAEL",
+      "first_seen_utc": "2026-08-22T05:29:25.826460"
+    },
+    "e3f0aeb59f96095ff98243b7": {
+      "title": "สลดต่างแดน แรงงานไทยเสียชีวิตปริศนา ในห้องพักอิสราเอล ป่วยกินยานอนพัก เพื่อนช็อกพบหมดลมหายใจ - Thaiger",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtNGdQLTA1RV9qV1BXQU5PeUZ4STBxNzF5SVNmTUFpNUpkM0o2T3dDdlBEcldxdDJ2ZVBGLVFHS05fMnYxbVo0YUh5b0RzYWlp?oc=5",
+      "group": "TIC_ISRAEL",
+      "first_seen_utc": "2026-08-22T05:29:25.826497"
+    },
+    "88691e281ae84715b9df4ec5": {
+      "title": "เมืองเกิ่นโถเปิดรับสมัครสอบวัดระดับความรู้ภาษาเกาหลีภายใต้โครงการ EPS แล้ว - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZG1JZmdMVzFkcFBDdDlMbVg0aG5xY01vRmdIbTBKd3ZpSkI2VXFIQUVIRGpjNGk5QUZRU0ZwaWRQb3I5bVNoRVY3QWJOOG9sQ0hQUnpQMU16T2t0RTZzRDRVYUpCRDhQQkJMYnkxc05GbmJpOWdNVTZySHhFN0lqZ0RabDZzamhpZEhvTDdYWUNleTUx?oc=5",
+      "group": "EPS_KOREA",
+      "first_seen_utc": "2026-08-22T05:29:29.684468"
+    },
+    "25464e666e81c8a915be9c73": {
+      "title": "เปิดรับสมัครสอบวัดระดับความรู้ภาษาเกาหลีภายใต้โครงการ EPS - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX25GQVByaUhlNDNmM3V1Rm1TekJhSURLQ2JQamR1aFZpVTdhZ1d3SHVnUmtzN3JmZXpFZUNzTjNfamN3SmVaX1UtUkNBeGdMelpad2dGQ0pBWUtsdnRodEdMWHpNNmNMT1lLUkFITWt3dXYxU214QXpuUTdldDZVX1pEZFhfQTFGM0E?oc=5",
+      "group": "EPS_KOREA",
+      "first_seen_utc": "2026-08-22T05:29:29.684617"
+    },
+    "24b04cb91a1fbf8a24a259a3": {
+      "title": "รับสมัครฝึกงานญี่ปุ่น เงินเดือน 2 แสนเยน ฝึกครบรับเพิ่มอีก 6 แสนเยน - bangkokbiznews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZThEWnUxbDB1T3JPOVlZeUNLS3hZRFBnclY5M3dySUxIdzQwMzdnckZVLUZQNUtORzA4SWZBSVJEbjJ1U0w0aEVXanBFUUp6REZmWlhsd1JtUW03MXltS2Npb2V6Zw?oc=5",
+      "group": "IM_JAPAN",
+      "first_seen_utc": "2026-08-22T05:29:32.545784"
+    },
+    "7be28bf3bb24f2515140cffc": {
+      "title": "เชื่อมโยงแรงงานกับโอกาสในการทำงาน - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SDl1MnVzaEtiY2c2VjgzS3RIamc5OW5NVkkzRXdpWlVkMjUtLTlKNmRRbU5vWGpHWlE1cVhsRXljOHg2M1ZGdGVRenRSWXJmYlJma1VWeWxnNVZQQ3BHUkNBN0V6ZUFaTnJnNENB?oc=5",
+      "group": "IM_JAPAN",
+      "first_seen_utc": "2026-08-22T05:29:32.546133"
+    },
+    "8e1001d198d445f19d3979c8": {
+      "title": "กรมการจัดหางาน เปิดลงทะเบียนแจ้งความประสงค์ไปทำงานภาคบริการโรงแรมและที่พักในไต้หวัน มีงานรองรับกว่า 384 อัตรา เงินเดือนสูงสุดประมาณ 3 หมื่นบาท สมัครออนไลน์ฟรี - Thaigov",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzSW1NdDVPS3h5U1J3RlRsMlp2VU9uMUk2YXI5bGRYblRRTmtNLVdtNmp3NjQwXzg0WHV0ZjJ1MzRrclFIdm8zV0hpOS1PTFpDVkE?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:35.523694"
+    },
+    "70c259cd5fa433b37638127a": {
+      "title": "รับสมัครพยาบาลไปทำงานในญี่ปุ่น เงินเดือนเกือบ 50 ล้านดองต่อเดือน - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlNISVFGN3pmamdhQTZPQVhGSnRuVmp1NnJqaENPT0dkMmtPOTVXQjI4T3dLcmM2eHgzRkp0dzBNVHJrSkVTRWsxdE9Gbm1mQVl3b3ZVLVRKLW5HY3I5ci1XQjdFVTlrSkxGRjFSRnVPazY0VkFZcTlZU3c1TjFJTzFMVWlnclE?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:35.523718"
+    },
+    "f85bd872e2c52c7f124c242c": {
+      "title": "กรมการจัดหางาน สั่งระงับ ส่งแรงงานไป อิหร่าน-อิรัก เหตุ ตะวันออกกลาง ตึงเครียด - ข่าวสด",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kUk9CWnJEMVFIMWp6MTZZNXRRejNzYmVVSnJzUlM1RHhDZm9QeFpzUDZlZ2t2cHhSWURUSVFwOW1vTktxYWFVRVMxSlZmQzhuZFNaQ1g3TGQ3U085UVdtSkFzRkNvdw?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:36.942015"
+    },
+    "c5f48527c7fa84dc7114ee28": {
+      "title": "กรมการจัดหางาน เปิดรับแรงงานไทย ไปทำงาน โรงแรมไต้หวัน 384 อัตรา เปิดคุณสมบัติ เงินเดือนสูงสุด - ข่าวสด",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHSmtMSHgzT291YXFIVlFRdnhKcl94MkFoTWhzVnVrc0VPREM4bU50czRsOTVXRXNvNGxCZ2YxSUtKcWVxaGFiSFFseklfMWh0MDFHeFlMeU4zZmw1eVE?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:36.942495"
+    },
+    "bb01f6e2977efa167f4b0312": {
+      "title": "ข่าวช่วยเหลือแรงงานถูกหลอกไปทำงานต่างประเทศ - Ch7.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BQXZNTWVtVTZ0Ykx3anhnem1OejhnVGgwSEVMMzN0Mjl5WHVBYUhNSDZqV0xXaVJrdmFTSVdZUkVoX3JvX0hiT3R3?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.486829"
+    },
+    "765a0625097af24407a24027": {
+      "title": "กกจ. ผนึก บก.ปคม. ช่วย 80 คนหางาน ถูกหลอกส่งทำงานแคนาดา-ฟินแลนด์ เร่งตรวจสอบ-ดำเนินคดี - มติชนออนไลน์",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rak5uR2RTb1drck5zUmc1M3J4T0lxYWlHM1BUelg0Q005bU0tU0pLOW5MU1FJYV9QVEwtTklLQklKVGZ3NTJ0M01rbTRtZlI5VlViaU5NajhEZTBPM0Y0VVYtWk9NNGNQSWc?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.486869"
+    },
+    "b32d31d60afb5c6c227bdceb": {
+      "title": "กระทรวงแรงงาน ผนึกภาครัฐ-ภาคเอกชน ขยายตลาดแรงงานต่างประเทศ ชูแนวคิด Upskill ปั้นแรงงานไทยรายได้สูง สร้างเม็ดเงินเข้าประเทศกว่า 2 แสนล้านบาทต่อปี - NBT CONNEXT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZnFtQTk0NXpXZEVibWVPejJ4M3J0czNISE54Z0VNQUk5ekg2aktfbGhuUTlJNTJlSHlCMzYtVW5VRzlDNDdSeGZjdUhBZmpyWFV5Rlp5NXdNeUgzUWoxSzU3SXhSaVlwckNtdg?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.487037"
+    },
+    "984dadb8c35f4b94b6a76df0": {
+      "title": "ข่าวร้อง ตร.สอบสวนกลาง ถูกหลอกจะให้ไปทำงานต่างประเทศ - Ch7.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PdV9YbU5MWk1aMjgtRExWZ2FhR2I0VjRjVVh4S3Zya2FoVERGLXppRDRSaER3NUl3UjhBMXdmOE5pV2lJU1FaendB?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.487297"
+    },
+    "1de6b4c2bfa0d00e102a4572": {
+      "title": "ในประเทศ - แรงงานเชียงรายแห่ร้อง! ถูกตุ๋นไปแคนาดา-ไอซ์แลนด์ สูญเงินรวมกว่า 27 ล้านบาท - แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2Zi1QOVJFamJuUnFGNE1UZUg2a0JlUDh3dWIwVGdmVC1RYV9ObGJDRGsxRW9WcmVzcmh2V2ZFYW5MMWNCb0NFQ3cwMA?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.487447"
+    },
+    "a7cc05bb0a636f24051bb7cc": {
+      "title": "รวบหนุ่มรับจ้างเปิดบัญชีม้า แก๊งมิจฉาชีพปลอมบริษัทจัดหางาน หลอกไปทำงานญี่ปุ่น สูญเงินกว่า 2.96 แสนบาท - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80eWg4bF9HeG1NZEs4ckpvNWdNbV9OdFB4dm11Wnoyb2h6MGlfLTJ6U1VRMEkxR3BiUHlzaGRTNjlxaS1NZTVRR2hHSS1USGNPSFRCQWRn?oc=5",
+      "group": "OTHER_OVERSEAS",
+      "first_seen_utc": "2026-08-22T05:29:38.487590"
+    }
+  },
+  "last_run": "2026-08-22T05:30:01.562897"
 }
